@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 최신 버전의 ipa 파일의 경로를 입력. -->
-					<string>https://1milliondancestudio.github.io/Entrance-Download-Web/versions/1.6.5-prod/entrance_app.ipa</string>
+					<string>https://1milliondancestudio.github.io/Entrance-Download-Web/versions/1.6.6-prod/entrance_app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -32,7 +32,7 @@
 				<key>bundle-identifier</key>
 				<string>com.1million.studiosystem</string>
 				<key>bundle-version</key>
-				<string>1.6.5</string>
+				<string>1.6.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
