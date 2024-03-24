@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://1milliondancestudio.github.io/Entrance-Download-Web/version/1.10.0-prod/entrance_app.ipa</string>
+					<string>https://1milliondancestudio.github.io/Entrance-Download-Web/versions/1.10.0-prod/entrance_app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://1milliondancestudio.github.io/Entrance-Download-Web/images/test-image.jpg</string>
+					<string>https://1milliondancestudio.github.io/Entrance-Download-Web/images/appstore.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://1milliondancestudio.github.io/Entrance-Download-Web/images/test-image.jpg</string>
+					<string>https://1milliondancestudio.github.io/Entrance-Download-Web/images/appstore.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Entrance Manager</string>
+				<string>1M Entrance</string>
 			</dict>
 		</dict>
 	</array>
