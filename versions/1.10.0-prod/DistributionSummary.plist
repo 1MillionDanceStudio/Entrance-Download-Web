@@ -9,18 +9,16 @@
 			<array>
 				<string>arm64</string>
 			</array>
-			<key>bitcode</key>
-			<false/>
 			<key>buildNumber</key>
 			<string>1010</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+				<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 				<key>dateExpires</key>
-				<string>2025/02/12</string>
+				<string>2025/03/24</string>
 				<key>type</key>
-				<string>Cloud Managed Apple Distribution</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -29,23 +27,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1.0</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>App.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -61,23 +55,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FBLPromises.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -93,23 +83,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseCore.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -125,23 +111,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseCoreInternal.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -157,23 +139,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseInstallations.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -189,23 +167,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseMessaging.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -221,23 +195,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1.0</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Flutter.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -253,23 +223,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleDataTransport.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -285,23 +251,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleUtilities.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -317,23 +279,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>MTBBarcodeScanner.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -349,23 +307,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Reachability.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -381,23 +335,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>TOCropViewController.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -413,23 +363,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>connectivity_plus.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -445,23 +391,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>device_info_plus.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -477,23 +419,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>flutter_local_notifications.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -509,23 +447,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>image_cropper.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -541,23 +475,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>image_picker_ios.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -573,23 +503,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>nanopb.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -605,23 +531,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>package_info_plus.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -637,23 +559,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>path_provider_foundation.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -669,23 +587,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>qr_code_scanner.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -701,23 +615,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
-					<key>bitcode</key>
-					<false/>
 					<key>buildNumber</key>
 					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F8384EBF4C0B94722548D4606F122AEFE277833C</string>
+						<string>5D470DDB49C849FA10403A16321A2FB6DE4806F3</string>
 						<key>dateExpires</key>
-						<string>2025/02/12</string>
+						<string>2025/03/24</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>url_launcher_ios.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -735,8 +645,6 @@
 				<string>28PBD6KH98.com.1million.studiosystem</string>
 				<key>aps-environment</key>
 				<string>production</string>
-				<key>beta-reports-active</key>
-				<true/>
 				<key>com.apple.developer.team-identifier</key>
 				<string>28PBD6KH98</string>
 				<key>get-task-allow</key>
@@ -747,14 +655,12 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>36368d7f-6400-4952-92ad-2aa7fc785ef4</string>
+				<string>dcefa437-cdf9-4a4c-aa34-0cb4cfd3ab85</string>
 				<key>dateExpires</key>
-				<string>2025/02/12</string>
+				<string>2025/03/24</string>
 				<key>name</key>
-				<string>iOS Team Store Provisioning Profile: com.1million.studiosystem</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.1million.studiosystem</string>
 			</dict>
-			<key>symbols</key>
-			<true/>
 			<key>team</key>
 			<dict>
 				<key>id</key>
