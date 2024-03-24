@@ -655,11 +655,11 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>dcefa437-cdf9-4a4c-aa34-0cb4cfd3ab85</string>
+				<string>ec199cec-bf08-4635-a7d1-0128c94758f3</string>
 				<key>dateExpires</key>
 				<string>2025/03/24</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.1million.studiosystem</string>
+				<string>ad hoc distribution profile</string>
 			</dict>
 			<key>team</key>
 			<dict>
